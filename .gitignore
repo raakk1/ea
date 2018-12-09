@@ -1,0 +1,8 @@
+# sfdx map
+.sfdx
+.sfdx/
+
+# other
+mdapipkg
+mdapipkg/
+package.xml
