@@ -4,3 +4,4 @@
 
 mdapipkg
 package.xml
+.sfdx
