@@ -5,3 +5,4 @@
 mdapipkg
 mdapipkg/
 package.xml
+**/profiles
