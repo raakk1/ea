@@ -1,6 +1,7 @@
 {
   "orgName": "Demo Company",
   "edition": "Developer",
+  "language": "nl-EN",
   "features": [
       "Communities", 
       "ServiceCloud", 
