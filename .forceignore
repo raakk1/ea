@@ -6,3 +6,4 @@ mdapipkg
 mdapipkg/
 package.xml
 **/profiles
+AppSwitcher.appMenu
