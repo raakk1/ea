@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
     <defaultLandingTab>Race__c</defaultLandingTab>
+    <description>app for the race management</description>
     <formFactors>Large</formFactors>
     <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
@@ -8,4 +9,5 @@
     <tabs>Season__c</tabs>
     <tabs>Race__c</tabs>
     <tabs>Driver__c</tabs>
+    <tabs>RaceData__c</tabs>
 </CustomApplication>

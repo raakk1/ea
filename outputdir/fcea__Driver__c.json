@@ -1,0 +1,31 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "fcea__Driver__c",
+                "referenceId": "Ref1"
+            },
+            "Name": "Charles Pic",
+            "fcea__Nationality__c": "British",
+            "fcea__Active__c": true
+        },
+        {
+            "attributes": {
+                "type": "fcea__Driver__c",
+                "referenceId": "Ref2"
+            },
+            "Name": "Rubens Barrichello",
+            "fcea__Nationality__c": "Brazilian",
+            "fcea__Active__c": false
+        },
+        {
+            "attributes": {
+                "type": "fcea__Driver__c",
+                "referenceId": "Ref3"
+            },
+            "Name": "Lewis Hamilton",
+            "fcea__Nationality__c": "British",
+            "fcea__Active__c": true
+        }
+    ]
+}
