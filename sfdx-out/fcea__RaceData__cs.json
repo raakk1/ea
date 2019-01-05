@@ -1,0 +1,12 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "fcea__RaceData__c",
+                "referenceId": "fcea__RaceData__cRef1"
+            },
+            "Name": "RDID-000000001",
+            "fcea__Race__c": "@fcea__Race__cRef1"
+        }
+    ]
+}

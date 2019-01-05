@@ -1,0 +1,39 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "fcea__Race__c",
+                "referenceId": "fcea__Race__cRef1"
+            },
+            "Name": "Spa"
+        },
+        {
+            "attributes": {
+                "type": "fcea__Race__c",
+                "referenceId": "fcea__Race__cRef2"
+            },
+            "Name": "Melbourne"
+        },
+        {
+            "attributes": {
+                "type": "fcea__Race__c",
+                "referenceId": "fcea__Race__cRef3"
+            },
+            "Name": "Shanghai"
+        },
+        {
+            "attributes": {
+                "type": "fcea__Race__c",
+                "referenceId": "fcea__Race__cRef4"
+            },
+            "Name": "Monte Carlo"
+        },
+        {
+            "attributes": {
+                "type": "fcea__Race__c",
+                "referenceId": "fcea__Race__cRef5"
+            },
+            "Name": "Budapest"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "fcea__Season__c",
+                "referenceId": "fcea__Season__cRef1"
+            },
+            "Name": "2018",
+            "fcea__Year__c": "2018"
+        },
+        {
+            "attributes": {
+                "type": "fcea__Season__c",
+                "referenceId": "fcea__Season__cRef2"
+            },
+            "Name": "2014",
+            "fcea__Year__c": "2014"
+        }
+    ]
+}

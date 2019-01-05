@@ -1,0 +1,26 @@
+[
+    {
+        "sobject": "fcea__Race__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "fcea__Race__cs.json"
+        ]
+    },
+    {
+        "sobject": "fcea__RaceData__c",
+        "saveRefs": false,
+        "resolveRefs": true,
+        "files": [
+            "fcea__RaceData__cs.json"
+        ]
+    },
+    {
+        "sobject": "fcea__Contestant__c",
+        "saveRefs": false,
+        "resolveRefs": true,
+        "files": [
+            "fcea__Contestant__cs.json"
+        ]
+    }
+]

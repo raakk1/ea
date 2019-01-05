@@ -1,0 +1,24 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "fcea__Contestant__c",
+                "referenceId": "fcea__Contestant__cRef1"
+            },
+            "Name": "CONTESTANT-00000000",
+            "fcea__DNF__c": true,
+            "fcea__DriverAndRace__c": "Charles Pic - Spa",
+            "fcea__Race__c": "@fcea__Race__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "fcea__Contestant__c",
+                "referenceId": "fcea__Contestant__cRef2"
+            },
+            "Name": "CONTESTANT-00000001",
+            "fcea__DNF__c": true,
+            "fcea__DriverAndRace__c": "Lewis Hamilton - Spa",
+            "fcea__Race__c": "@fcea__Race__cRef1"
+        }
+    ]
+}

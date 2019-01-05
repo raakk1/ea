@@ -90,7 +90,7 @@
             <quickActionName>FeedItem.LinkPost</quickActionName>
         </quickActionListItems>
         <quickActionListItems>
-            <quickActionName>fcea__Contestant__c.OutOfRace</quickActionName>
+            <quickActionName>Contestant__c.OutOfRace</quickActionName>
         </quickActionListItems>
     </quickActionList>
     <showEmailCheckbox>false</showEmailCheckbox>
