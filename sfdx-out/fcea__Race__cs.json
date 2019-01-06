@@ -5,35 +5,41 @@
                 "type": "fcea__Race__c",
                 "referenceId": "fcea__Race__cRef1"
             },
-            "Name": "Spa"
+            "Name": "Spa",
+            "fcea__PollPositionLapTime__c": 0,
+            "fcea__Season__c": "@fcea__Season__cRef1"
         },
         {
             "attributes": {
                 "type": "fcea__Race__c",
                 "referenceId": "fcea__Race__cRef2"
             },
-            "Name": "Melbourne"
+            "Name": "Melbourne",
+            "fcea__Season__c": "@fcea__Season__cRef2"
         },
         {
             "attributes": {
                 "type": "fcea__Race__c",
                 "referenceId": "fcea__Race__cRef3"
             },
-            "Name": "Shanghai"
+            "Name": "Shanghai",
+            "fcea__Season__c": "@fcea__Season__cRef2"
         },
         {
             "attributes": {
                 "type": "fcea__Race__c",
                 "referenceId": "fcea__Race__cRef4"
             },
-            "Name": "Monte Carlo"
+            "Name": "Budapest",
+            "fcea__Season__c": "@fcea__Season__cRef2"
         },
         {
             "attributes": {
                 "type": "fcea__Race__c",
                 "referenceId": "fcea__Race__cRef5"
             },
-            "Name": "Budapest"
+            "Name": "Monte Carlo",
+            "fcea__Season__c": "@fcea__Season__cRef2"
         }
     ]
 }

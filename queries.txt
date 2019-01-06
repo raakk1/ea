@@ -1,0 +1,3 @@
+sfdx force:data:tree:export -p -q "Select Name, fcea__Year__c, (Select Name, fcea__FastestLapBy__c, fcea__PollPositionLapTime__c From fcea__Races__r) From fcea__Season__c" -u eas2 -d sfdx-out
+sfdx force:data:tree:export -p -q "Select Name, fcea__Active__c, fcea__Nationality__c, fcea__TwitterHandle__c, (Select Id From fcea__FastestLaps__r) From fcea__Driver__c" -u eas2 -d sfdx-out
+sfdx force:data:tree:export -p -q "Select Name, (Select Name From fcea__Race_Data__r), (Select Name, fcea__DNF__c, fcea__DriverAndRace__c, fcea__Qualification1LapTime__c, fcea__Qualification2LapTime__c, fcea__Qualification3LapTime__c From fcea__Contestants__r) From fcea__Race__c" -u eas2 -d sfdx-out
