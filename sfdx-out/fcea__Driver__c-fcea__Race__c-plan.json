@@ -1,0 +1,18 @@
+[
+    {
+        "sobject": "fcea__Driver__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "fcea__Driver__cs.json"
+        ]
+    },
+    {
+        "sobject": "fcea__Race__c",
+        "saveRefs": false,
+        "resolveRefs": true,
+        "files": [
+            "fcea__Race__cs.json"
+        ]
+    }
+]

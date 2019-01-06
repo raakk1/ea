@@ -1,0 +1,59 @@
+{
+    "records" :[
+    {
+        "attributes" : {"type" : "fcea__Season__c", "referenceId" : "ref1"},
+        "fcea__Year__c" : "2018",
+        "fcea__Races__r" : {
+            "records" : [
+            {
+                "attributes" : {"type" : "fcea__Race__c", "referenceId" : "ref2"},
+                "Name" : "Spa",
+                "fcea__Contestants__r" : {
+                    "records" : [
+                    {
+                        "attributes" : {"type" : "fcea__Contestant__c", "referenceId" : "ref3"},
+                        "fcea__Driver__c" : "a011t00000AVBvOAAX",
+                        "fcea__DNF__c": true
+                    },
+                    {
+                        "attributes" : {"type" : "fcea__Contestant__c", "referenceId" : "ref4"},
+                        "fcea__Driver__c" : "a011t00000AVBvQAAX",
+                        "fcea__DNF__c": true
+                    }]
+                }
+            }]
+        }
+    },
+    {
+        "attributes" : {"type" : "fcea__Season__c", "referenceId" : "ref5"},
+        "fcea__Year__c" : "2014",
+        "fcea__Races__r" : {
+            "records" : [
+            {
+                "attributes" : {"type" : "fcea__Race__c", "referenceId" : "ref6"},
+                "Name" : "Spa",
+                "FastestLapBy__c" : "lewishamilton"
+            },
+            {
+                "attributes" : {"type" : "fcea__Race__c", "referenceId" : "ref7"},
+                "Name" : "Melbourne",
+                "FastestLapBy__c" : "lewishamilton"
+            },
+            {
+                "attributes" : {"type" : "fcea__Race__c", "referenceId" : "ref7"},
+                "Name" : "Shanghai",
+                "FastestLapBy__c" : "lewishamilton"
+            },
+            {
+                "attributes" : {"type" : "fcea__Race__c", "referenceId" : "ref7"},
+                "Name" : "Monte Carlo",
+                "FastestLapBy__c" : "lewishamilton"
+            },
+            {
+                "attributes" : {"type" : "fcea__Race__c", "referenceId" : "ref7"},
+                "Name" : "Budapest",
+                "FastestLapBy__c" : "lewishamilton"
+            }]
+        }
+    }]
+}

@@ -1,0 +1,33 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "fcea__Driver__c",
+                "referenceId": "fcea__Driver__cRef1"
+            },
+            "Name": "Charles Pic",
+            "fcea__Active__c": true,
+            "fcea__Nationality__c": "British"
+        },
+        {
+            "attributes": {
+                "type": "fcea__Driver__c",
+                "referenceId": "fcea__Driver__cRef2"
+            },
+            "Name": "Rubens Barrichello",
+            "fcea__Active__c": false,
+            "fcea__Nationality__c": "Brazilian",
+            "fcea__TwitterHandle__c": "rubarrichello"
+        },
+        {
+            "attributes": {
+                "type": "fcea__Driver__c",
+                "referenceId": "fcea__Driver__cRef3"
+            },
+            "Name": "Lewis Hamilton",
+            "fcea__Active__c": true,
+            "fcea__Nationality__c": "British",
+            "fcea__TwitterHandle__c": "LewisHamilton"
+        }
+    ]
+}
