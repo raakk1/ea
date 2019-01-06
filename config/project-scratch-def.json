@@ -1,18 +1,18 @@
 {
-  "orgName": "Demo Company",
-  "edition": "Developer",
-  "language": "nl-EN",
-  "features": [
-      "Communities", 
-      "ServiceCloud", 
-      "Chatbot",
-      "DebugApex"
-      ],
-  "settings": {
-      "orgPreferenceSettings": {
-          "networksEnabled": true,
-          "s1DesktopEnabled": true,
-          "s1EncryptedStoragePref2": false
-        }
-    }
-}
+    "orgName": "Demo Company",
+    "edition": "Developer",
+    "language": "nl-EN",
+    "features": [
+        "Communities", 
+        "ServiceCloud", 
+        "Chatbot",
+        "DebugApex"
+        ],
+    "settings": {
+        "orgPreferenceSettings": {
+            "networksEnabled": true,
+            "s1DesktopEnabled": true,
+            "s1EncryptedStoragePref2": false
+          }
+      }
+  }
